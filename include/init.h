@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** init
-*/
-
 #ifndef FRAMEBUFFER_INITIALISER_H_
 #define FRAMEBUFFER_INITIALISER_H_
 

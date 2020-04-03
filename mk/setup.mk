@@ -1,10 +1,3 @@
-##
-## EPITECH PROJECT, 2019
-## Makefile
-## File description:
-## Makefile ?
-##
-
 override CC:=		gcc
 override LD:=		$(CC)
 override MK:=		mkdir -p

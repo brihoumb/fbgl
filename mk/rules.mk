@@ -1,15 +1,8 @@
-##
-## EPITECH PROJECT, 2019
-## Makefile
-## File description:
-## Makefile ?
-##
+OBJ=			$(SRC:%.c=$(OBJ_DIR)/%.o)
 
-OBJ=		$(SRC:%.c=$(OBJ_DIR)/%.o)
+all:			$(NAME)
 
-all:		$(NAME)
-
-$(NAME):	$(OBJ)
+$(NAME):		$(OBJ)
 		$(LD) $^ -o $@
 
 .SECONDEXPANSION:
@@ -23,14 +16,14 @@ $(OBJ_DIR):
 $(OBJ_DIR)%/.:
 		$(MK) $@
 
-.PRECIOUS:	$(OBJ_DIR) $(OBJ_DIR)%/.
+.PRECIOUS:		$(OBJ_DIR) $(OBJ_DIR)%/.
 
 clean:
 		$(RM) $(OBJ_DIR)
 
-fclean:		clean
+fclean:			clean
 		$(RM) $(NAME)
 
-re:		fclean all
+re:			fclean all
 
 .PHONY:		all clean fclean re

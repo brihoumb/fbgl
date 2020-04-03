@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** screen
-*/
-
 #include "../include/io.h"
 #include "../include/pixel.h"
 #include "../include/vector.h"

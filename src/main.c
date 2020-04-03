@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** main
-*/
-
 #include <stdlib.h>
 #include <signal.h>
 

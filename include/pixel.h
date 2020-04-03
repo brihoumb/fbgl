@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** pixel
-*/
-
 #ifndef FRAMEBUFFER_PIXEL_H_
 #define FRAMEBUFFER_PIXEL_H_
 

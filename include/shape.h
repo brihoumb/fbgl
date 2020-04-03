@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** shapes
-*/
-
 #ifndef FRAMEBUFFER_SHAPE_H_
 #define FRAMEBUFFER_SHAPE_H_
 

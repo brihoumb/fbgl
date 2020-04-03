@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** pixel
-*/
-
 #include "../include/io.h"
 #include "../include/color.h"
 #include "../include/vector.h"

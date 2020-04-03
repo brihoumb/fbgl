@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** color
-*/
-
 #ifndef FRAMEBUFFER_COLOR_H_
 #define FRAMEBUFFER_COLOR_H_
 

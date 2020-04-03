@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** init
-*/
-
 #include <fcntl.h>
 #include <unistd.h>
 #include <string.h>

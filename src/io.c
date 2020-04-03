@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** io
-*/
-
 #include <unistd.h>
 
 int length(char *str)

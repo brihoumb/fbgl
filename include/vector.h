@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** vector
-*/
-
 #ifndef FRAMEBUFFER_VECTOR_H_
 #define FRAMEBUFFER_VECTOR_H_
 

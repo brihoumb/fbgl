@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2019
-** fblib
-** File description:
-** framebuffer structure
-*/
-
 #ifndef FRAMEBUFFER_STRUCT_H_
 #define FRAMEBUFFER_STRUCT_H_
 
